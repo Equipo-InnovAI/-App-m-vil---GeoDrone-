@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background becomes dark, while texts, buttons and info remain bright and visible -->
+    <color name="background_light">#0F172A</color>
+    <color name="surface_light">#1E293B</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="primary_dark">#38BDF8</color>
+    <color name="primary">#1E293B</color>
+    <color name="color_accent">#0EA5E9</color>
+    <color name="card_border">#334155</color>
+</resources>

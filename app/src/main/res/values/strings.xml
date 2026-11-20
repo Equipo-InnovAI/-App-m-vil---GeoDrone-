@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">GeoDrone</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="login_subtitle">Bienvenido a Geodrone. Inicia sesión para continuar.</string>
+    <string name="email_hint">Correo electrónico *</string>
+    <string name="password_hint">Contraseña *</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="to_register_button">¿No tienes cuenta? Crear cuenta</string>
+
+    <string name="register_title">Crear Cuenta</string>
+    <string name="register_subtitle">Regístrate para gestionar tus proyectos y vuelos.</string>
+    <string name="name_hint">Nombre completo *</string>
+    <string name="password_register_hint">Contraseña (mínimo 6 caracteres) *</string>
+    <string name="register_button">Crear cuenta</string>
+    <string name="to_login_button">¿Ya tienes cuenta? Iniciar sesión</string>
+
+    <string name="home_title">Panel Principal</string>
+    <string name="home_welcome">Bienvenido a Geodrone</string>
+    <string name="projects_card_title">Proyectos</string>
+    <string name="projects_card_desc">Gestiona tus proyectos geográficos y sus vuelos.</string>
+    <string name="profile_card_title">Perfil de Usuario</string>
+    <string name="profile_card_desc">Revisa tus datos de cuenta y rol actual.</string>
+    <string name="logout_button">Cerrar sesión</string>
+
+    <string name="projects_title">Proyectos</string>
+    <string name="new_project_button">+ Nuevo proyecto</string>
+    <string name="empty_projects">No hay proyectos registrados aún.\n¡Crea uno nuevo!</string>
+
+    <string name="project_form_title">Proyecto</string>
+    <string name="project_name_hint">Nombre del proyecto *</string>
+    <string name="project_desc_hint">Descripción (opcional)</string>
+    <string name="project_location_hint">Ubicación (opcional)</string>
+    <string name="project_status_label">Estado del proyecto</string>
+    <string name="save_button">Guardar</string>
+    <string name="cancel_button">Cancelar</string>
+
+    <string name="flights_title">Vuelos del Proyecto</string>
+    <string name="new_flight_button">+ Nuevo vuelo</string>
+    <string name="empty_flights">No hay vuelos registrados para este proyecto.\n¡Agrega un vuelo!</string>
+
+    <string name="flight_form_title">Nuevo Vuelo</string>
+    <string name="flight_name_hint">Nombre del vuelo *</string>
+    <string name="flight_date_hint">Fecha (AAAA-MM-DD) *</string>
+    <string name="flight_altitude_hint">Altitud en metros (opcional)</string>
+    <string name="flight_overlap_hint">Porcentaje de solapamiento % (opcional)</string>
+    <string name="flight_notes_hint">Notas (opcional)</string>
+
+    <string name="image_upload_title">Subida de Imágenes</string>
+    <string name="select_flight_label">Seleccionar Vuelo:</string>
+    <string name="select_photos_button">Seleccionar fotos</string>
+    <string name="upload_photos_button">Subir fotos</string>
+    <string name="empty_photos">No hay fotos seleccionadas para subir.</string>
+
+    <string name="profile_title">Perfil de Usuario</string>
+    <string name="role_label">Rol por defecto:</string>
+    <string name="role_value">operator</string>
+</resources>
